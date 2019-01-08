@@ -88,6 +88,7 @@
     "prop-types": "^15.6.0"
   },
   "dependencies": {
-    "bee-table": "^1.6.26"
+    "bee-table": "^1.6.26",
+    "tinper-bee": "^1.6.9"
   }
 }
